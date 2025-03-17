@@ -30,7 +30,7 @@ Snappie was developed using [Serpens](https://blendermarket.com/products/serpens
 ⚠ **Warning:** Editing Snappie using the `.blend` file requires Serpens. Without it, you won’t be able to modify the add-on inside Blender.  
 
 ## 🚀 Usage  
-Once installed, Snappie replaces the default snap pie menu. Simply use the snap hotkey (`Shift + S` by default but you can change this in the Preferences of the addon) to access the organized menu and additional functions.  
+Once installed, Snappie replaces the default snap pie menu. Simply slap the snap hotkey (`Shift + S` by default but you can change this in the Preferences of the addon).  
 
 ## 💬 Feedback & Contributions  
 If you have any feedback or suggestions, feel free to open an issue or contribute!  
