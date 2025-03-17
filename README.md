@@ -3,7 +3,7 @@
 Snappie is a rewrite of Blender’s default snap pie menu, designed to bring better organization and additional functionality to snapping workflows.  
 
 ## 🎯 Why Snappie?  
-In my workflows, I found the default pie menu to be a bit unorganized, displaying all options at once in a radial layout. **Snappie organizes snap options into clear, structured containers** while also adding new functions tailored to improve efficiency.  
+Over my time working with Blender, I found the default pie menu to be a bit unorganized, displaying all options at once in a radial layout. **Snappie organizes snap options into clear, structured containers** while also adding new functions tailored to improve efficiency.  
 
 ## ✨ Features  
 - **Organized Snap Menu** – Snap options are grouped into logical sections for easier navigation.  
