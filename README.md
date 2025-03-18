@@ -28,7 +28,7 @@ Snappie was developed using [Serpens](https://blendermarket.com/products/serpens
 - If you have the **Serpens add-on**, you can download the latest `.blend` file from the `SerpensBlenderFiles` directory and edit the add-on visually within Blender.  
 
 ⚠ **Warning:** Editing Snappie using the `.blend` file requires Serpens. Without it, you won’t be able to modify the add-on inside Blender.
-⚠ **Warning:** Currently the 'Align' and 'Reset Rotation' operations force the Rotation mode to Euler. I plan to make these ops smarter in the future but for now the brute force your rot mode... sorry!!  
+Also, the 'Align' and 'Reset Rotation' operations force the Rotation mode to Euler(for now). I plan to make these ops smarter in the future but for now the brute force your rot mode... sorry!! ⚠ 
 
 ## 🚀 Usage  
 Once installed, Snappie replaces the default snap pie menu. Simply slap the snap hotkey (`Shift + S` by default but you can change this in the Preferences of the addon).  
