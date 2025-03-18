@@ -17,7 +17,7 @@ Over my time working with Blender, I found the default pie menu to be a bit unor
   - Inspired by the *Geometry Stager* feature in ZBrush.  
 
 ## 🔧 Installation  
-1. Download the latest release from [GitHub Releases](#).  
+1. Download the latest release from [GitHub Releases](https://github.com/jbikeler/Snappie_OpenSource/releases).  
 2. In Blender, go to **Edit > Preferences > Add-ons > Install** and select the downloaded `.zip` file.  
 3. Enable the add-on and start using Snappie!  
 
