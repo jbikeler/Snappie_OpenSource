@@ -1,4 +1,4 @@
-# Snappie (Snap-Pie... Get it 😝) - Reorganized Snap Pie Menu for Blender with Some Extra Goodies Thrown In
+# Snappie (Get it...😝) - Reorganized Snap Pie Menu for Blender with Some Extra Goodies Thrown In
 
 Snappie is a rewrite of Blender’s default snap pie menu, designed to bring better organization and additional functionality to snapping workflows.
 
